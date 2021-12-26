@@ -1,7 +1,5 @@
-var cat = 0;
+
 var dog = 0;
-var lion = 0;
-var cow = 0;
 var background_noise = 0;
 
 function startClassifictaion() {
